@@ -1,3 +1,6 @@
 public class deneme {
-    System.out.printf("deneme class");
+    public static void main(String[] args){
+
+    System.out.println("deneme class");
+}
 }
